@@ -13,5 +13,15 @@ Check the [Releases](https://github.com/idk-why-studios/iroshi/releases) section
 ![Gameplay Screenshot 2](https://github.com/user-attachments/assets/fb71b2f4-5c98-4918-b1d0-b8f359b2bf5c)
 
 
+## Playtesters
+- sarpp
+- SoloHollow
+- dcdunkan
+- Chief_Gamer
+- DayReez
+- Padu
+- riebeck
+
 ## License
 This project is © 2025 idkwhystudios. All rights reserved.
+
