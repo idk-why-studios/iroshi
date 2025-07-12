@@ -1,4 +1,4 @@
-# Iroshi - v0.1.0
+# Iroshi - v0.1.1
 
 **A colorful(?) top-down pixel shooter with 7 deadly hues.**
 
